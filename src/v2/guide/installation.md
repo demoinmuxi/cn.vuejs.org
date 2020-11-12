@@ -46,8 +46,6 @@ Vue 在其所有项目中公布的功能和行为都遵循[语义化版本控制
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 ```
 
-对于生产环境，我们推荐链接到一个明确的版本号和构建文件，以避免新版本造成的不可预期的破坏：
-
 ``` html
 <script src="https://cdn.jsdelivr.net/npm/vue@2.6.0"></script>
 ```
